@@ -5,7 +5,7 @@
   * This file includes implementations fibonacci series to 6 size
   *
   * @author Denys Astapieiev
-  * @date 22.08.2022
+  * @date 16.09.2022
   *
   */
 
